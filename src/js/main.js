@@ -288,7 +288,7 @@ function display() {
   };
 
   const charUrlDisp = url => {
-    const charUrl = reduceTextWidth(url, 'Arial 12.8px', 250);
+    const charUrl = reduceTextWidth(url, 'Arial 12.8px', 500);
     return `<a href="${charUrl}" target="_blank">Youtube Timestamp</a>`;
   };
 

@@ -165,7 +165,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Estelle tells Joshua his past",
+    name: "Estelle tells Joshua how her mother passed away",
     img: "https://i.ibb.co/dk7RN85/estelle-past.png",
     url: "https://youtu.be/aVde7GlXOlc?si=uJeJ12t7C7BehvLn&t=573",
     opts: {
@@ -373,7 +373,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Anton confesses to Aina, they end up doing a drinking contest with Olivier and Schera",
+    name: "Anton confesses to Aina, they end up doing a drinking contest",
     img: "https://i.ibb.co/02xfTMj/anton-confesses-aina.jpg",
     url: "https://youtu.be/UZDiiTP3OYE?si=dvkVS-eUxIgaccYh&t=976",
     opts: {
@@ -397,17 +397,113 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Anton confesses to Aina, they end up doing a drinking contest with Olivier and Schera",
-    img: "https://i.ibb.co/02xfTMj/anton-confesses-aina.jpg",
-    url: "https://youtu.be/UZDiiTP3OYE?si=dvkVS-eUxIgaccYh&t=976",
+    name: "Tita helps Agate move on",
+    img: "https://i.ibb.co/njw7fHF/tita-helps-agate-move-on.jpg",
+    url: "https://youtu.be/gCDKNzorTOc?si=SUu_ak6lGDsEVwGm&t=1235",
     opts: {
       arcs: ["skySC"]
     }
   },
   {
-    name: "Anton confesses to Aina, they end up doing a drinking contest with Olivier and Schera",
-    img: "https://i.ibb.co/02xfTMj/anton-confesses-aina.jpg",
-    url: "https://youtu.be/UZDiiTP3OYE?si=dvkVS-eUxIgaccYh&t=976",
+    name: "Agate frees Ragnard from his seal",
+    img: "https://i.ibb.co/BN18Vzs/agate-frees-ragnard.jpg",
+    url: "https://youtu.be/o6n8z8Q0eaQ?si=GxiaVwNmNX7CMTp0&t=3186",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Loewe pays respect to Ravennue Village's victims",
+    img: "https://i.ibb.co/3cmCKSH/loewe-pays-his-respect.jpg",
+    url: "https://youtu.be/o6n8z8Q0eaQ?si=nWnASAo1PCuOwds_&t=4380",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Joshua infiltrate the Glorious",
+    img: "https://i.ibb.co/C9vH9CN/joshua-infiltrate-ouroboros.png",
+    url: "https://youtu.be/AiYcr-GVrbw?si=ZsaZ_5h8uGT4jJlX&t=610",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Estelle reminisces about the past at the lodge and plays the harmonica",
+    img: "https://i.ibb.co/X27YqVt/estelle-plays-harmonica.jpg",
+    url: "https://youtu.be/nvPLCM_mdlU?si=59UnZ5-OUTzxc7aH&t=1207",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Estelle gets kidnapped by Ouroboros and Glorious's reveal",
+    img: "https://i.ibb.co/5GGzcQG/estelle-kidnapped-glorious.jpg",
+    url: "https://youtu.be/Mun4H6JLkGg?si=6k7qIwjMIYjltXVF&t=1267",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Estelle meets with Weissman on the Glorious",
+    img: "https://i.ibb.co/7VywLtG/estelle-meets-weissman.jpg",
+    url: "https://youtu.be/Mun4H6JLkGg?si=SGUe3s6epKQLedTK&t=1658",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Loewe tells Estelle about Hamel and Karin",
+    img: "https://i.ibb.co/hWdFmsr/loewe-tells-estelle-about-hamel.jpg",
+    url: "https://youtu.be/Mun4H6JLkGg?si=_gWO4z5t7l3JxtEN&t=2557",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: '"I finally found you, Joshua. I finally reached you"',
+    img: "https://i.ibb.co/NVHmPMd/estelle-finds-joshua.jpg",
+    url: "https://youtu.be/LUkSUFB_Fko?si=MmgcC4mjgiylhg_c&t=2281",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: '"Joshua... You damn fool of a son of mine... Welcome home"',
+    img: "https://i.ibb.co/XYxByhT/welcome-home-joshua.jpg",
+    url: "https://youtu.be/mBAc86uZuG0?si=zLMm7mVqn6JkxObW&t=724",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The Liberl Ark appears",
+    img: "https://i.ibb.co/SnTZvnS/liberl-ark-appears.png",
+    url: "https://youtu.be/B_l3cde9tp8?si=YOB0-l92PfXYjTOD&t=4241",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Cid and Richard save Kloe and the Queen from Ouroboros",
+    img: "https://i.ibb.co/SX2zdpR/cid-richard-saves-the-queen.jpg",
+    url: "https://youtu.be/eo2YCllxhNg?si=O96ILA1L51UXnj1g&t=628",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Olivier's reveal and declaration to Zech",
+    img: "https://i.ibb.co/BqJwCJt/olivier-reveal.jpg",
+    url: "https://youtu.be/eo2YCllxhNg?si=D2KYut8O3FKi5Ard&t=2191",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Battle in the sky ! The Arseille is forced to land on the Liberl Ark",
+    img: "https://i.ibb.co/XYxByhT/welcome-home-joshua.jpg",
+    url: "https://youtu.be/dIZ_nYGgRDk?si=2ZCc_5bsg_V7Kstu&t=363",
     opts: {
       arcs: ["skySC"]
     }
