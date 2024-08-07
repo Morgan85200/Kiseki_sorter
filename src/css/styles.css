@@ -345,3 +345,14 @@ select {
 hr{
   border: 1px solid #597AAA;
 }
+
+.sorter .url{
+  /* background-color: #2E4B73; */
+  text-align:center;
+  height:30px
+}
+
+.sorter .url a{
+  font-size:0.8em;
+  line-height:2em;
+}

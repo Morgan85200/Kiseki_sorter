@@ -287,6 +287,12 @@ function display() {
     return `<p title="${charTooltip}">${charName}</p>`;
   };
 
+  const charUrlDisp = url => {
+    const charUrl = reduceTextWidth(url, 'Arial 12.8px', 250);
+    return `<a href="${charUrl}" target="_blank">Youtube Timestamp</a>`;
+  };
+
+
   progressBar(`Battle No. ${battleNo}`, percent);
 
   document.querySelector('.left.sort.image').src = leftChar.img;
@@ -296,6 +302,9 @@ function display() {
 
   document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
   document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
+
+  document.querySelector('.left.sort.url').innerHTML = charUrlDisp(leftChar.url);
+  document.querySelector('.right.sort.url').innerHTML = charUrlDisp(rightChar.url);
 
   /** Autopick if choice has been given. */
   if (choices.length !== battleNo - 1) {
@@ -481,7 +490,7 @@ function result(imageNum = 10) {
   const header = '';
   const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <br><br> <a class="restart-button" href="${location.protocol}//${sorterURL}">Do another sorter</a>`;
   const imgRes = (char, num) => {
-    const charName = reduceTextWidth(char.name, 'Arial 12px', 250);
+    const charName = reduceTextWidth(char.name, 'Arial 11px', 250);
     const charTooltip = char.name !== charName ? char.name : '';
     return `<div class="result image"><div class="left"><span>${num}</span></div><div class="right"><img src="${char.img}"><div><span class="span_text" title="${charTooltip}">${charName}</span></div></div></div>`;
   }

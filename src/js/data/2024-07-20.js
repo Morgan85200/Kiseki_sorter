@@ -23,6 +23,7 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Why is my present a BOY ?",
     img: "https://i.ibb.co/G3v0dFT/present-boy.jpg",
+    url: "https://youtu.be/UZDiiTP3OYE?si=d7vpzdzxfp_yfZ6W&t=1068",
     opts: {
       arcs: ["skyFC"]
     }
@@ -30,6 +31,7 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Joshua ends his dream with Estelle",
     img: "https://i.ibb.co/MCdn4zg/joshua-dream.jpg",
+    url: "https://youtu.be/UZDiiTP3OYE?si=d7vpzdzxfp_yfZ6W&t=1068",
     opts: {
       arcs: ["skyFC"]
     }
@@ -37,6 +39,7 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Picnic in Manoria Village",
     img: "https://i.ibb.co/RSQcVcB/picnic-in-manoria.jpg",
+    url: "https://youtu.be/UZDiiTP3OYE?si=d7vpzdzxfp_yfZ6W&t=1068",
     opts: {
       arcs: ["skyFC"]
     }
@@ -44,6 +47,7 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Professor Russel rescue attempt failed",
     img: "https://i.ibb.co/w6bMQN5/tita-rescue-attempt.jpg",
+    url: "https://youtu.be/UZDiiTP3OYE?si=d7vpzdzxfp_yfZ6W&t=1068",
     opts: {
       arcs: ["skyFC"]
     }
@@ -51,6 +55,7 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Mayor Delmore chase and arrest",
     img: "https://i.ibb.co/xG45000/joshua-snaping.jpg",
+    url: "https://youtu.be/UZDiiTP3OYE?si=d7vpzdzxfp_yfZ6W&t=1068",
     opts: {
       arcs: ["skyFC"]
     }
