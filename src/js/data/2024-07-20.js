@@ -321,5 +321,12 @@ dataSet[dataSetVersion].characterData = [
       arcs: ["skySC"]
     }
   },
+  {
+    name: "Estelle plays the Whereabouts of Light and wakes up from her dream",
+    img: "https://i.ibb.co/PFL95Rn/estelle-wakes-up.png",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
 ];
 	
