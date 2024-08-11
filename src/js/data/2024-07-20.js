@@ -228,15 +228,7 @@ dataSet[dataSetVersion].characterData = [
       arcs: ["skyFC"]
     }
   },
-  {
-    name: "The end of a journey, the beginning of a new one",
-    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
-    opts: {
-      arcs: ["skySC"]
-    }
-  },
-  {
+  { // SC
     name: "Kevin helps Estelle vent her feelings",
     img: "https://i.ibb.co/mG5cW7N/kevin-helps-estelle.jpg",
     url: "https://youtu.be/0UnpPEmQnLc?si=S0qqq2kv22CzI1ie&t=686",
@@ -502,8 +494,256 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Battle in the sky ! The Arseille is forced to land on the Liberl Ark",
-    img: "https://i.ibb.co/XYxByhT/welcome-home-joshua.jpg",
+    img: "https://i.ibb.co/99sP59M/arseille-glorious.png",
     url: "https://youtu.be/dIZ_nYGgRDk?si=2ZCc_5bsg_V7Kstu&t=363",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Zin vs Walter, their past and conflict resolved through their fist",
+    img: "https://i.ibb.co/tzRKFj6/zin-walter.jpg",
+    url: "https://youtu.be/KHzJ1wMm52k?si=65duAW5Xn9qzW5Zi&t=1167",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Luciola tells her past and disappears from Schera's life",
+    img: "https://i.ibb.co/qknhSjD/luciola.jpg",
+    url: "https://youtu.be/KHzJ1wMm52k?si=DzyU6qkZpA3YUTZr&t=2063",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Estelle and Renne",
+    img: "https://i.ibb.co/n837tKg/estelle-and-renne.jpg",
+    url: "https://youtu.be/KHzJ1wMm52k?si=WZCA9OFT0vPF-Rep&t=3074",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: '"People are never powerless so long as they are together!"',
+    img: "https://i.ibb.co/vsqfG20/joshua-vs-loewe.jpg",
+    url: "https://youtu.be/hb2E60ETbyA?si=jcGGwBJMxP9P0Aut&t=579",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Weissman orders Joshua to kill Estelle",
+    img: "https://i.ibb.co/5R2CYXw/weissman-orders-joshua.jpg",
+    url: "https://youtu.be/hb2E60ETbyA?si=wIrhdCBHmV8Z6voL&t=3137",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: '"You knocked me out from behind. That is an insult the bladelord cannot abide"',
+    img: "https://i.ibb.co/r760gCF/loewe-break-aureole-barrier.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=9Se8VEEnhBygLX_b&t=446",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: 'At least I finally understand why Karin could smile like that at the end...',
+    img: "https://i.ibb.co/bmm8bxX/loewe-death.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=Sbig5jnfrBoKdgu3&t=1311",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Weissman meets his demise at the hand of Kevin",
+    img: "https://i.ibb.co/wN3fnWh/weissman-death.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=5asvCJApQl57X88S&t=1802",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: '"Can I ask two favors ?"',
+    img: "https://i.ibb.co/4sSGLQH/two-favors.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=bXQQptPStq1UaVQ9&t=2448",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  { // Third /3rd
+    name: "Kevin gets back the Fool's locket and takes down Conrad for the Gralsritter",
+    img: "https://i.ibb.co/5F4mRw9/3rd-prologue.jpg",
+    url: "https://youtu.be/6DPMMsZ8XiQ?si=kWFDqyKsz-XKjeYI&t=1096",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The recluse cube's reawakening",
+    img: "https://i.ibb.co/bBtbKPL/cube-awakening.jpg",
+    url: "https://youtu.be/Tayvm11dqo4?si=mlzJpKssfDt662nA&t=1412",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Kevin and Ries enters Phantasma",
+    img: "https://i.ibb.co/5cfqZSZ/kevin-ries-enters-phantasma.jpg",
+    url: "https://youtu.be/Tayvm11dqo4?si=U6OqhrYsJ6VveE0H&t=2726",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Tita talks about how she wants to help Renne to her dad",
+    img: "https://i.ibb.co/x5qhvXk/tita-wants-to-help-renne.jpg",
+    url: "https://youtu.be/0gXeHxa4fIw?si=zk_DvkfVmgSAKzR6&t=3322",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "Kevin meets the Argent sisters",
+    img: "https://i.ibb.co/286FY5G/kevin-meets-argent-sisters.png",
+    url: "https://youtu.be/-It8WA0a29k?si=oYoKcNyqPkMfGdqq&t=132",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    opts: {
+      arcs: ["skySC"]
+    }
+  },
+  {
+    name: "The end of a journey, the beginning of a new one",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
     opts: {
       arcs: ["skySC"]
     }
