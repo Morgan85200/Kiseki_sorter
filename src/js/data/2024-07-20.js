@@ -10,9 +10,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Trails in the sky FC", key: "skyFC" },
       { name: "Trails in the sky SC", key: "skySC" },
-      { name: "Crossbell", key: "crossbell" },
-      { name: "Coldsteel", key: "cs" },
-      { name: "Kuro", key: "kuro" }
+      { name: "Trails in the sky 3rd", key: "sky3" },
     ]
   } 
 ];
@@ -585,7 +583,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.ibb.co/5F4mRw9/3rd-prologue.jpg",
     url: "https://youtu.be/6DPMMsZ8XiQ?si=kWFDqyKsz-XKjeYI&t=1096",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
@@ -593,7 +591,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.ibb.co/bBtbKPL/cube-awakening.jpg",
     url: "https://youtu.be/Tayvm11dqo4?si=mlzJpKssfDt662nA&t=1412",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
@@ -601,7 +599,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.ibb.co/5cfqZSZ/kevin-ries-enters-phantasma.jpg",
     url: "https://youtu.be/Tayvm11dqo4?si=U6OqhrYsJ6VveE0H&t=2726",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
@@ -609,7 +607,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.ibb.co/x5qhvXk/tita-wants-to-help-renne.jpg",
     url: "https://youtu.be/0gXeHxa4fIw?si=zk_DvkfVmgSAKzR6&t=3322",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
@@ -617,135 +615,247 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.ibb.co/286FY5G/kevin-meets-argent-sisters.png",
     url: "https://youtu.be/-It8WA0a29k?si=oYoKcNyqPkMfGdqq&t=132",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Julia opens up to Mueller",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/-It8WA0a29k?si=mewLpRlpzQcv2-UX&t=2874",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Julia comes to terms with her wish of serving Kloe",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/-It8WA0a29k?si=AAyJobLa_8dek0XT&t=3547",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Kloe confesses to Joshua and helps him finds motivation before leaving Liberl",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/ZAqOfMBs-6A?si=RrMBcuYmqi3S4GO3&t=3938",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Discovery of the salt pale inside of the second door in Phantasma",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/811OrPlJouc?si=saiYn2Cq6yR5RYs0&t=97",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "The capua's family backstory and how they lost their home",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/811OrPlJouc?si=_ZplxrkC79rHQ4Tz&t=1360",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Ries sees through Kevin's lies",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/FHqCdf6zKCk?si=5syfIlgReFbVCMQl&t=1078",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Kilika decides to go back to Calvard after getting a final push from Zin",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/FHqCdf6zKCk?si=Sj9Cwgv8ysh34tp7&t=2652",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Kloe thanks Lechter for the advices he gave her",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/4hqSpBj2QKw?si=hoyeIv9R1ilzzDf7&t=3148",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Anelace receives Cassius' sword",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/jMUWhjH2GcI?si=NosmN8woX59lYLnT&t=2637",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Schera tells Aina how she grew up",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/XLxsggiPa3g?si=YMrEvZZZCF1yQp5f&t=96",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Schera and Aina become friends and have their first drink together",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/XLxsggiPa3g?si=J-w2eAsUsSyJfhrA&t=2861",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Deen, Rais and Rocco become junior bracors",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/ySDTQ2seDrY?si=-c4RwHRhuwCG7mRA&t=2536",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Kevin unveils his stigma to save Ries",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/ySDTQ2seDrY?si=HZRBJyZT6bH-at5v&t=3108",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Kevin becomes the fifth dominion after Rufina's death",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/xmHX6LBzfuI?si=3X37MAI06Qz5olXn&t=14",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: '"You amaze me more than any bug ever will"',
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/XrRlzI99rCk?si=I7NUINfxJ2vdBLcC&t=3030",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
     }
   },
   {
-    name: "The end of a journey, the beginning of a new one",
+    name: "Don't you dare give up, Tita !",
     img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
-    url: "https://youtu.be/VUGHNBWND58?si=wyZ_qH8vBpFsnUVx&t=3403",
+    url: "https://youtu.be/bSPDvKyYjhM?si=HMNt10pNL4UD0YG9&t=2679",
     opts: {
-      arcs: ["skySC"]
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Tita stops Renne and Ries from fighting",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/JobjjFmNLdc?si=KNDqlAXtzUjD1kNz&t=2510",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Olivert's declaration",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/ehv9CAfHG7U?si=vTdt0Y4gGL_nUE4X&t=1654",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: '"Defeat me, that is all"',
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/ZH13lYWy10s?si=VeDDLN-QSDAbAZhj&t=2222",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Richard's newfound motivation",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/gasc3Z6sBak?si=R9ILNH7Ydgz0LBTr&t=1807",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Joshua gives Loewe a proper goodbye",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/PVo3K2ie3Cc?si=J62v0o2pKAkSFtLe&t=1425",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "The truth behind Rufina's death",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/HEdRpE50YyE?si=QN3Y4nJ05orSwt6K&t=1378",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Kevin saves Ries from falling to Gehenna",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/HEdRpE50YyE?si=j_KanH5EGw9JsJOD&t=2310",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Kevin meets the ghost of his past in Gehenna",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/HEdRpE50YyE?si=65J9J2lc-dINHzw6&t=3193",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Star Door 15",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/N5CzfVW9Eu8?si=VJnyNbeU5_9V2sR3&t=1855",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Final fight against the Lord of Phantasma",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/hBtl414Ehqk?si=L4gth-2uaYtmtDiA&t=1512",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "To the world she envisioned",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/hBtl414Ehqk?si=ZyGy5c2f3vMXQwn7&t=2175",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Farewells",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/zFmF6ELDP8g?si=dWovZK8zmTp5vt_m&t=285",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: "Estelle's speech to Renne about parting",
+    img: "https://i.ibb.co/1LL6WgB/sc-ending.jpg",
+    url: "https://youtu.be/zFmF6ELDP8g?si=6WBeRRWu_YD5f4cC&t=1511",
+    opts: {
+      arcs: ["sky3"]
+    }
+  },
+  {
+    name: '"Is it possible for a dominion to change their title after choosing one ?"',
+    img: "3rd/dominion_title.jpg",
+    url: "https://youtu.be/zFmF6ELDP8g?si=K4dfsKbwesv039vL&t=2831",
+    opts: {
+      arcs: ["sky3"]
     }
   },
 ];
