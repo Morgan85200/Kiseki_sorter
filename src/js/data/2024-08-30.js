@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Stop being such a child, Richard!",
-    img: "https://i.ibb.co/Yk3cmPZ/cassius-speech-to-richard.jpg",
+    img: "https://i.ibb.co/Yk3cmPZ/cassius_speech_to_richard.jpg",
     url: "https://youtu.be/5RGxP0cFBxE?si=A4O__I0re0SBZzzQ&t=3707",
     opts: {
       arcs: ["skyFC"]
@@ -380,7 +380,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tita rushes in to protect Agate",
-    img: "sc/tita-protects-agate.jpg",
+    img: "sc/tita_protects_agate.jpg",
     url: "https://youtu.be/VQh9bJnBW3o?si=hSC7kDJL82HIMYBu&t=1634",
     opts: {
       arcs: ["skySC"]
@@ -539,7 +539,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: '"You knocked me out from behind. That is an insult the bladelord cannot abide"',
+    name: "Loewe's payback to Weissman",
     img: "sc/loewe_break_aureole_barrier.jpg",
     url: "https://youtu.be/VUGHNBWND58?si=9Se8VEEnhBygLX_b&t=446",
     opts: {
@@ -644,7 +644,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Discovery of the salt pale inside of the second door in Phantasma",
-    img: "3rd/salt_pale.jpg",
+    img: "3rd/salt_pale.png",
     url: "https://youtu.be/811OrPlJouc?si=saiYn2Cq6yR5RYs0&t=97",
     opts: {
       arcs: ["sky3"]
@@ -652,7 +652,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The capua's family backstory and how they lost their home",
-    img: "3rd/capua_family.jpg",
+    img: "3rd/capua_family.png",
     url: "https://youtu.be/811OrPlJouc?si=_ZplxrkC79rHQ4Tz&t=1360",
     opts: {
       arcs: ["sky3"]
@@ -724,7 +724,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kevin becomes the fifth dominion after Rufina's death",
-    img: "3rd/kevin_becomes_a_dominion.jpg",
+    img: "3rd/kevin_becomes_a_dominion.png",
     url: "https://youtu.be/xmHX6LBzfuI?si=3X37MAI06Qz5olXn&t=14",
     opts: {
       arcs: ["sky3"]
@@ -788,7 +788,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The truth behind Rufina's death",
-    img: "3rd/rufina_death.jpg",
+    img: "3rd/rufina_death.png",
     url: "https://youtu.be/HEdRpE50YyE?si=QN3Y4nJ05orSwt6K&t=1378",
     opts: {
       arcs: ["sky3"]
