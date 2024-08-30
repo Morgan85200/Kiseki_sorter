@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Stop being such a child, Richard!",
-    img: "https://i.ibb.co/Yk3cmPZ/cassius_speech_to_richard.jpg",
+    img: "fc/cassius_speech_to_richard.jpg",
     url: "https://youtu.be/5RGxP0cFBxE?si=A4O__I0re0SBZzzQ&t=3707",
     opts: {
       arcs: ["skyFC"]
