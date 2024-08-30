@@ -15,9 +15,9 @@ const dataSet = {};
  * 
  * @example '2018-02-20'
 */
-let dataSetVersion = '2024-07-20';
+let dataSetVersion = '2024-08-30';
 
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = '';
+const imageRoot = 'https://kiseki-scenes-sort.netlify.app/chara/';
